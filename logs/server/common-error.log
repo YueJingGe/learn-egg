@@ -1,0 +1,117 @@
+2019-05-27 16:24:31,428 ERROR 28789 nodejs.ClusterClientNoResponseError: client no response in 243270ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:267:5)
+name: "ClusterClientNoResponseError"
+pid: 28789
+hostname: yuejinggedeMacBook-Pro.local
+
+2019-05-27 16:56:43,194 ERROR 30935 [-/::1/-/12ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30935
+hostname: yuejinggedeMacBook-Pro.local
+
+2019-05-27 17:03:16,038 ERROR 30935 [-/::1/-/2ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30935
+hostname: yuejinggedeMacBook-Pro.local
+
+2019-05-27 17:03:32,727 ERROR 30935 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30935
+hostname: yuejinggedeMacBook-Pro.local
+
+2019-05-27 17:14:51,131 ERROR 31696 [-/::1/-/10ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 31696
+hostname: yuejinggedeMacBook-Pro.local
+
+2019-05-27 17:15:35,918 ERROR 31726 [-/::1/-/9ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 31726
+hostname: yuejinggedeMacBook-Pro.local
+
+2019-05-27 17:15:36,872 ERROR 31726 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 31726
+hostname: yuejinggedeMacBook-Pro.local
+
+2019-05-27 17:15:37,232 ERROR 31726 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 31726
+hostname: yuejinggedeMacBook-Pro.local
+
+2019-05-27 17:15:37,427 ERROR 31726 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 31726
+hostname: yuejinggedeMacBook-Pro.local
+
+2019-05-27 17:15:37,606 ERROR 31726 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/yuejingge/Documents/开发日记/yuancheng/webpack-react/server/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 31726
+hostname: yuejinggedeMacBook-Pro.local
+
